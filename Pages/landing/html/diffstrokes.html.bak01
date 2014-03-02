@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="../css/diffstrokes.css"/>
+<link rel="stylesheet" type="text/css" href="../css/bootstrap-theme.css"/>
+<link rel="stylesheet" type="text/css" href="../css/bootstrap-theme.min.css"/>
+<link rel="stylesheet" type="text/css" href="../css/bootstrap.css"/>
+<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="../css/hover-min.css"/>
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+<script type="text/javascript" src="../javascript/jquery.min.js"></script>
+<script type="text/javascript" src="../javascript/bootstrap.js"></script>
+<script type="text/javascript" src="../javascript/bootstrap.min.js"></script>
+<script type="text/javascript" src="../javascript/diffstrokes.js"></script>
+<title>Untitled Document</title>
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1//style.css" media="screen" />
+	<script type="text/javascript" src="engine1//jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1//style.css" media="screen" />
+	<script type="text/javascript" src="engine1//jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+</head>
+
+<body>
+	<div class="navbar-inverse navbar-fixed-top">
+    	<div class="container">
+        	<a href="#" class="navbar-brand">Different Strokes</a>
+           <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+           	<span><img src="../../../../images/circpang.png" id="navlogo"/></span>
+           </button>
+           
+           <div class="collapse navbar-collapse navHeaderCollapse">
+           	<ul class="nav navbar-nav navbar-middle">
+            		<li><a href="#" class="active">Home</a></li>
+                  <li><a href="#">About Us</a></li>
+                  <li><a href="#">Products</a></li>
+                  <li><a href="#">Contact Us</a></li>
+            	</ul>
+           <div class="col-sm-3 col-md-3 pull-right">
+       			<form class="navbar-form" role="search">
+        			<div class="input-group">
+            			<input type="text" class="form-control" placeholder="Search" name="srch-term" id="srch-term">
+            		<div class="input-group-btn">
+                		<button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+           		</div>
+        			</div>
+        		</form>
+       		</div>
+            </div>
+        </div>
+    </div>
+<div class="home" data-type="background" data-speed="2" class="pages">    
+  <div class="content">
+    <img src="../images/logo.png" class="img-responsive"/>
+  </div>
+</div>  
+<div class="about boxShadow" data-type="background" data-speed="2" class="pages">
+  <div class="content">
+
+  </div>
+</div>
+
+<div class="contact boxShadow" data-type="background" data-speed="2" class="pages">    
+  <div class="content">
+  </div>
+</div> 
+</body>
+</html>
