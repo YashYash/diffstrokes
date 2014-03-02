@@ -1,5 +1,15 @@
 
 $(document).ready(function(){
+  $(".twitter-timeline").hide()
+  $("#close").hide();
+  $("#bird").click(function(){
+  $(".twitter-timeline").show();
+  $("#close").show();
+  });
+  $("#close").click(function(){
+  $(".twitter-timeline").hide()
+  $("#close").hide();
+  });
   var $window = $(window);
 
   $('div[data-type="background"]').each(function(){
@@ -11,5 +21,6 @@ $(document).ready(function(){
         backgroundPosition: coords 
       });
     });
-  });
+  }); 
 });// JavaScript Document
+
